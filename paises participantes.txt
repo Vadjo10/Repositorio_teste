@@ -2,3 +2,4 @@ paises participantes
 Brasil 
 Estados Unidos
 China
+Italia
